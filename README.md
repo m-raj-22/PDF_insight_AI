@@ -25,7 +25,7 @@ PDF Insight AI is a Streamlit-based application that allows users to upload and 
 
 ```
 pdf-insight-ai/
-├── app.py                  # Main Streamlit application
+├── main.py                  # Main Streamlit application
 ├── faiss_index/            # FAISS index files (auto-generated)
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
